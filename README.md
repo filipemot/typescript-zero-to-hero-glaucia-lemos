@@ -1,7 +1,5 @@
 
-# typescript-zero-to-hero-glaucia-lemos
-
-Curso Typescript Zero To Hero - Glaucia Lemos
+# Curso Typescript Zero To Hero - Glaucia Lemos
 
 Aulas:
 
