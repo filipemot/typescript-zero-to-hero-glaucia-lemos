@@ -1,11 +1,12 @@
+"use strict";
 // Strings
-var nome = 'Filipe';
+let nome = 'Filipe';
 console.log(nome);
 // Arrays
-var animais = ['cachorro', 'gato', 'elefante'];
+let animais = ['cachorro', 'gato', 'elefante'];
 console.log(animais);
 // Objetos
-var carro;
+let carro;
 carro = { nome: 'Fusca', ano: 1980, preco: 10000 };
 console.log(carro);
 // Função

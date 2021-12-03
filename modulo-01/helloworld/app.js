@@ -1,3 +1,3 @@
 "use strict";
-var mensagem = 'Hello World!';
+let mensagem = 'Hello World!';
 console.log(mensagem);
