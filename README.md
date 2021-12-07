@@ -11,6 +11,8 @@ Aulas:
 - Aula 06 - TypeScript - Zero to Hero | E por que usar o TypeScript? E, próximos passos! #06
 - Aula 07 - TypeScript - Zero to Hero | Type Annotation #07
 - Aula 08 - TypeScript - Zero to Hero | Demo - Type Annotation #08
+- Aula 09 - TypeScript - Zero to Hero | Tipo - Boolean #09
+- Aula 10 - TypeScript - Zero to Hero | Demo - Boolean #10
 
 **Instalar typescript**
 
