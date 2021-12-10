@@ -1,9 +1,12 @@
+// Single Quote
 let animal: string = 'Panda';
 console.log(animal);
 
-let animal2: string = 'Elefante';
+// Double Quote
+let animal2: string = "Elefante";
 console.log(animal2);
 
-let varios_animais: string = `${animal} - ${animal2}`;
+// Back Ticks
+let varios_animais: string = `Animais: ${animal} - ${animal2}`;
 console.log(varios_animais);
 

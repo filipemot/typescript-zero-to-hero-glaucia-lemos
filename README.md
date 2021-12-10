@@ -16,6 +16,7 @@ Aulas:
 - Aula 11 - TypeScript - Zero to Hero | Tipo Number & Bigint #11
 - Aula 12 - TypeScript - Zero to Hero | Demo: Number & Bigint #12
 - Aula 13 - TypeScript - Zero to Hero | Tipo: String #13
+- Aula 14 - TypeScript - Zero to Hero | Demo - Tipo String #14
 
 **Instalar typescript**
 
