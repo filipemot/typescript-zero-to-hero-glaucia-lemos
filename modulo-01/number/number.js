@@ -1,0 +1,17 @@
+"use strict";
+let num1 = 140.0;
+let num2 = 0x37CF;
+let num3 = 0o377;
+let num4 = 0b111001;
+console.log(num1);
+console.log(num2);
+console.log(num3);
+console.log(num4);
+let big1 = 9007199254740991n;
+let big2 = 8589934595n;
+let big3 = 0x20000000003n;
+let big4 = 2199023255555n;
+console.log(big1);
+console.log(big2);
+console.log(big3);
+console.log(big4);

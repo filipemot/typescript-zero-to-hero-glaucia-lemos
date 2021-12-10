@@ -13,6 +13,7 @@ Aulas:
 - Aula 08 - TypeScript - Zero to Hero | Demo - Type Annotation #08
 - Aula 09 - TypeScript - Zero to Hero | Tipo - Boolean #09
 - Aula 10 - TypeScript - Zero to Hero | Demo - Boolean #10
+- Aula 11 - TypeScript - Zero to Hero | Tipo Number & Bigint #11
 
 **Instalar typescript**
 
