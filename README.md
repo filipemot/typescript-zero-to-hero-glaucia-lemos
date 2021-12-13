@@ -18,6 +18,7 @@ Aulas:
 - Aula 13 - TypeScript - Zero to Hero | Tipo: String #13
 - Aula 14 - TypeScript - Zero to Hero | Demo - Tipo String #14
 - Aula 15 - TypeScript - Zero to Hero | Tipo Array #15
+- Aula 16 - TypeScript - Zero to Hero | Demo - Tipo Array #16
 
 **Instalar typescript**
 
