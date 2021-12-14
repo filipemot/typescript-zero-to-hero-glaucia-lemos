@@ -12,3 +12,17 @@ console.log(pessoa2);
 console.log("\n******** Usando tuplas com Spread Operator");
 let listaFrutas = ['Abacaxi', 'Maça'];
 console.log(...listaFrutas);
+console.log("\n******** Lista Heterogenea de Tupla");
+let listaFrutas2 = [5, true, ...listaFrutas];
+console.log(...listaFrutas2);
+console.log("\n******** Uso de função com Tuplas");
+function listarPessoas(nomes, idades) {
+    return [...nomes, ...idades];
+}
+let resultado = listarPessoas(['Filipe', 'Pedro'], [35, 7]);
+console.log(resultado);
+function criarPessoa(...nome) {
+    return [...nome];
+}
+console.log(criarPessoa('Filipe', 'Mota'));
+console.log(criarPessoa('Filipe', 'Guedes', 'Mota'));

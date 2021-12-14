@@ -21,6 +21,7 @@ Aulas:
 - Aula 16 - TypeScript - Zero to Hero | Demo - Tipo Array #16
 - Aula 17 - TypeScript - Zero to Hero | Tipo Tuple (Tupla) #17
 - Aula 18 - TypeScript - Zero to Hero | Tipo Tuple (Tupla) #18 - Parte 01
+- Aula 19 - TypeScript - Zero to Hero | Tipo Tuple (Tupla) #18.1 - Parte 02
 
 **Instalar typescript**
 
