@@ -22,6 +22,7 @@ Aulas:
 - Aula 17 - TypeScript - Zero to Hero | Tipo Tuple (Tupla) #17
 - Aula 18 - TypeScript - Zero to Hero | Tipo Tuple (Tupla) #18 - Parte 01
 - Aula 19 - TypeScript - Zero to Hero | Tipo Tuple (Tupla) #18.1 - Parte 02
+- Aula 20 - TypeScript - Zero to Hero | Tipo Enum #19
 
 **Instalar typescript**
 
