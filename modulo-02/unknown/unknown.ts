@@ -12,3 +12,7 @@ let algumaCoisaUnknown: unknown;
 
 console.log(algumaCoisaAny.toFixed(2)); // Não dá erro
 //console.log(algumaCoisaUnknown.toFixed(2)); // Erro!
+
+if (typeof algumaCoisaUnknown === 'number') {
+  console.log(algumaCoisaUnknown.toFixed());
+}
