@@ -26,6 +26,7 @@ Aulas:
 - Aula 21 - TypeScript - Zero to Hero | Demo - Tipo Enum #19
 - Aula 22 - TypeScript - Zero to Hero | Tipo Any #21
 - Aula 23 - TypeScript - Zero to Hero | Demo - Tipo Any #21
+- Aula 24 - TypeScript - Zero to Hero | Tipo Unknown #23
 
 **Instalar typescript**
 
