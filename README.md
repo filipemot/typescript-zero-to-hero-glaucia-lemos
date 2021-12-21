@@ -28,6 +28,7 @@ Aulas:
 - Aula 23 - TypeScript - Zero to Hero | Demo - Tipo Any #21
 - Aula 24 - TypeScript - Zero to Hero | Tipo Unknown #23
 - Aula 25 - TypeScript - Zero to Hero | Demo - Tipo Unknown #24
+- Aula 26 - TypeScript - Zero to Hero | Tipo Void #25
 
 **Instalar typescript**
 
