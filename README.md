@@ -8,6 +8,9 @@ Aulas:
 - Aula 03 - TypeScript - Zero to Hero | Preparando o Ambiente de Desenvolvimento para o TypeScript #03
 - Aula 04 - TypeScript - Zero to Hero | Entendendo o arquivo tsconfig.json #04
 - Aula 05 - TypeScript - Zero to Hero | Demo: Primeiro Programa em TypeScript – Hello World #05
+
+**Módulo 01**
+
 - Aula 06 - TypeScript - Zero to Hero | E por que usar o TypeScript? E, próximos passos! #06
 - Aula 07 - TypeScript - Zero to Hero | Type Annotation #07
 - Aula 08 - TypeScript - Zero to Hero | Demo - Type Annotation #08
@@ -33,6 +36,7 @@ Aulas:
 - Aula 28 - TypeScript - Zero to Hero | Tipo Null/Undefined #27
 - Aula 29 - TypeScript - Zero to Hero | Demo - Tipo Null & Undefined #28
 - Aula 30 - TypeScript - Zero to Hero | Tipo Never #29
+- Aula 31 - TypeScript - Zero to Hero | Demo - Tipo Never #30
 
 **Instalar typescript**
 
