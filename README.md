@@ -32,6 +32,7 @@ Aulas:
 - Aula 27 - TypeScript - Zero to Hero | Demo - Tipo Void #26
 - Aula 28 - TypeScript - Zero to Hero | Tipo Null/Undefined #27
 - Aula 29 - TypeScript - Zero to Hero | Demo - Tipo Null & Undefined #28
+- Aula 30 - TypeScript - Zero to Hero | Tipo Never #29
 
 **Instalar typescript**
 
