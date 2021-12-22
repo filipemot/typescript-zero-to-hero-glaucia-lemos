@@ -3,6 +3,8 @@
 
 Aulas:
 
+**Introdução**
+
 - Aula 01 - TypeScript - Zero to Hero | O que é TypeScript? #01
 - Aula 02 - TypeScript - Zero to Hero | Conhecendo o Playground do TypeScript #02
 - Aula 03 - TypeScript - Zero to Hero | Preparando o Ambiente de Desenvolvimento para o TypeScript #03
