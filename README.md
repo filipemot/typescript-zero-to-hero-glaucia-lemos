@@ -41,6 +41,7 @@ Aulas:
 - Aula 31 - TypeScript - Zero to Hero | Demo - Tipo Never #30
 - Aula 32 - TypeScript - Zero to Hero | Tipo Object #31
 - Aula 33 - TypeScript - Zero to Hero | Tipo Object #32 - Parte 01
+- Aula 34 - TypeScript - Zero to Hero | Tipo Object #33 - Parte 02
 
 **Instalar typescript**
 
