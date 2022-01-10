@@ -43,6 +43,7 @@ Aulas:
 - Aula 33 - TypeScript - Zero to Hero | Tipo Object #32 - Parte 01
 - Aula 34 - TypeScript - Zero to Hero | Tipo Object #33 - Parte 02
 - Aula 35 - TypeScript - Zero to Hero | if...else
+- Aula 36 - TypeScript - Zero to Hero | Demo - if...else
 
 **Instalar typescript**
 
