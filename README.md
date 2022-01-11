@@ -44,7 +44,11 @@ Aulas:
 - Aula 34 - TypeScript - Zero to Hero | Tipo Object #33 - Parte 02
 - Aula 35 - TypeScript - Zero to Hero | if...else
 - Aula 36 - TypeScript - Zero to Hero | Demo - if...else
+
+**Módulo 03**
+
 - Aula 37 - TypeScript - Zero to Hero | switch...case
+- Aula 38 - TypeScript - Zero to Hero | Demo - switch...case
 
 **Instalar typescript**
 
