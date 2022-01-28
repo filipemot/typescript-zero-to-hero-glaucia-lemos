@@ -53,6 +53,7 @@ Aulas:
 - Aula 39 - TypeScript - Zero to Hero | Loop For
 - Aula 40 - TypeScript - Zero to Hero | Demo - Loop For
 - Aula 41 - TypeScript - Zero to Hero | While/do... while
+- Aula 42 - TypeScript - Zero to Hero | Demo - While/do... while
 
 **Instalar typescript**
 
