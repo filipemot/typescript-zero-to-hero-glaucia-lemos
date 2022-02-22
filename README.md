@@ -55,6 +55,11 @@ Aulas:
 - Aula 41 - TypeScript - Zero to Hero | While/do... while
 - Aula 42 - TypeScript - Zero to Hero | Demo - While/do... while
 
+**Módulo 04**
+
+- Aula 43 - TypeScript - Zero to Hero | Functions #42
+
+
 **Instalar typescript**
 
     npm install -g typescript
