@@ -1,3 +1,4 @@
+//Optional Parameter
 function informacaoDadosPessoas(
   idPessoa: number,
   nome: string,
@@ -10,3 +11,4 @@ function informacaoDadosPessoas(
 }
 informacaoDadosPessoas(1, 'João');
 informacaoDadosPessoas(2, 'João', 'teste@teste.com.br');
+
