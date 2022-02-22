@@ -58,6 +58,7 @@ Aulas:
 **Módulo 04**
 
 - Aula 43 - TypeScript - Zero to Hero | Functions #42
+- Aula 44 - TypeScript - Zero to Hero | Demo - Functions #43
 
 
 **Instalar typescript**
