@@ -61,6 +61,7 @@ Aulas:
 - Aula 44 - TypeScript - Zero to Hero | Demo - Functions #43
 - Aula 45 - TypeScript - Zero to Hero | Optional Parameters #44
 - Aula 46 - TypeScript - Zero to Hero | Demo - Optional Parameters #45
+- Aula 47 - TypeScript - Zero to Hero | Default Parameters #46
 
 
 **Instalar typescript**
