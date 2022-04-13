@@ -1,4 +1,3 @@
-
 // ==> Exemplo 01 - Classes
 
 export {};
@@ -33,7 +32,7 @@ const estudante = new Estudante();
 estudante.codigoEstudante = 8967;
 estudante.nomeEstudante = 'Prince Lemos';
 
-// Acessar os campos:
+// Caesars os campos:
 console.log('Código do Estudante...: ' + estudante.codigoEstudante);
 console.log('Nome do Estudante...: ' + estudante.nomeEstudante);
 
