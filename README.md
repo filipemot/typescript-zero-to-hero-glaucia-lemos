@@ -69,6 +69,7 @@ Aulas:
 **Módulo 05**
 
 - Aula 51 - TypeScript - Zero to Hero | Classes #50
+- Aula 52 - TypeScript - Zero to Hero | Demo - Classes #51
 
 
 **Instalar typescript**
