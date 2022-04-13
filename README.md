@@ -66,6 +66,10 @@ Aulas:
 - Aula 49 - TypeScript - Zero to Hero | Rest Parameters #48
 - Aula 50 - TypeScript - Zero to Hero | Demo - Rest Parameters #49
 
+**Módulo 05**
+
+- Aula 51 - TypeScript - Zero to Hero | Classes #50
+
 
 **Instalar typescript**
 
