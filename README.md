@@ -71,7 +71,7 @@ Aulas:
 - Aula 51 - TypeScript - Zero to Hero | Classes #50
 - Aula 52 - TypeScript - Zero to Hero | Demo - Classes #51
 - Aula 53 - TypeScript - Zero to Hero | Modificadores de Acesso #52
-
+- Aula 54 - TypeScript - Zero to Hero | Demo - Modificadores de Acesso #53
 
 **Instalar typescript**
 
