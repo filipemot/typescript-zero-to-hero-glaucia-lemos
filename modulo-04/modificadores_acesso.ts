@@ -2,13 +2,13 @@ export {};
 
 // ==> Exemplo 01- Modificador: public
 class Estudante {
-  codigoEstudante: number;
-  nomeEstudante: string;
+  codigoEstudante: number | undefined;
+  nomeEstudante: string | undefined;
 }
 
 const estudante = new Estudante();
 estudante.codigoEstudante = 201;
-estudante.nomeEstudante = 'Glaucia Lemos';
+estudante.nomeEstudante = 'Filipe Mota';
 
 console.log(estudante.codigoEstudante);
 console.log(estudante.nomeEstudante);
@@ -32,7 +32,7 @@ class Estudante_02 {
   }
 }
 
-const estudante_02 = new Estudante_02(98765, 'Glaucia Lemos', 35);
+const estudante_02 = new Estudante_02(98765, 'Filipe Mota', 35);
 console.log(estudante_02.retornarDadosEstudante());
 
 // ==> Exemplo 03 - Modificador: protected
@@ -61,5 +61,5 @@ class Pessoa extends Estudante_03 {
   }
 }
 
-const estudante_03 = new Pessoa(783212, 'Glaucia Lemos', 'Matemática');
+const estudante_03 = new Pessoa(783212, 'Filipe Mota', 'Matemática');
 console.log(estudante_03.retornarDados());
