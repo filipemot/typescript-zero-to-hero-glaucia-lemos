@@ -32,8 +32,8 @@ class Funcionario_02 {
   }
 }
 
-const funcionario02 = new Funcionario_02('Glaucia Lemos', 8967);
-funcionario02.nome = 'Glaucia Lemos';
+const funcionario02 = new Funcionario_02('Filipe Motta', 8967);
+funcionario02.nome = 'Filipe Motta';
 //funcionario02.codigoFuncionario = 8967;//Erro de compilação
 
 //Emeplo 04
@@ -44,15 +44,15 @@ interface IFuncionario {
 
 const funcionario03: Readonly<IFuncionario> = {
   codigoFuncionario: 8967,
-  nomeEmpregado: 'Glaucia Lemos',
+  nomeEmpregado: 'Filipe Motta',
 };
 
-//funcionario03.nomeEmpregado = 'Glaucia Lemos';//Erro de compilação
+//funcionario03.nomeEmpregado = 'Filipe Motta';//Erro de compilação
 
 const funcionario04: IFuncionario = {
   codigoFuncionario: 8967,
-  nomeEmpregado: 'Glaucia Lemos',
+  nomeEmpregado: 'Filipe Motta',
 };
 
-funcionario04.nomeEmpregado = 'Glaucia Lemos';
+funcionario04.nomeEmpregado = 'Filipe Motta';
 

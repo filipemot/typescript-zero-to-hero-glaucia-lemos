@@ -21,7 +21,7 @@ function exibirNome(nome: string, sobrenome = 'Mota') {
 
 const resultado_1 = exibirNome('Filipe');
 const resultado_2 = exibirNome('Filipe', undefined);
-// const resultado_3 = exibirNome('Glaucia', 'de Souza', 'Senhorita');
+// const resultado_3 = exibirNome('Filipe', 'de Souza', 'Senhorita');
 const resultado_4 = exibirNome('Filipe', 'Mota');
 
 console.log(resultado_1);

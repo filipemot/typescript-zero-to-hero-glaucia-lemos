@@ -16,7 +16,7 @@ class Pessoa {
   }
 }
 
-const pessoa = new Pessoa('Glaucia', 'Lemos');
+const pessoa = new Pessoa('Filipe', 'Motta');
 console.log(pessoa.nomeCompleto());
 
 // ==> Exemplo 02 - Classes (sem constructor)
@@ -30,7 +30,7 @@ const estudante = new Estudante();
 
 // Inicializar o objeto:
 estudante.codigoEstudante = 8967;
-estudante.nomeEstudante = 'Prince Lemos';
+estudante.nomeEstudante = 'Prince Motta';
 
 // Caesars os campos:
 console.log('Código do Estudante...: ' + estudante.codigoEstudante);
@@ -55,7 +55,7 @@ class Estudante_1 {
 }
 
 // Acessar os campos:
-const estudante_1 = new Estudante_1(9845, 'Prince Lemos');
+const estudante_1 = new Estudante_1(9845, 'Prince Motta');
 console.log(
   'Lendo o atributo Código do Estudante...: ' + estudante_1.codigoEstudante,
 );

@@ -18,7 +18,7 @@ function listarFrutas(frase: string, ...frutas: string[]) {
 
 console.log(
   listarFrutas(
-    'Glaucia, você precisa ir na feira para comprar...:',
+    'Filipe, você precisa ir na feira para comprar...:',
     '🥥',
     '🍓',
     '🍌',
