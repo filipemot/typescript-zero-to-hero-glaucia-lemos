@@ -1,12 +1,3 @@
-/* eslint-disable prettier/prettier */
-/**
- * arquivo: gettersSetters.ts
- * descrição: arquivo responsável por ensinar como usar getters e
- * setters no TypeScript
- * data: 01/08/2022
- * author: Glaucia Lemos <Twitter: @glaucia_lemos86>
- */
-
 export {};
 
 //==>Exemplo 01: Get
@@ -31,12 +22,12 @@ class Pessoa {
 }
 
 const pessoa = new Pessoa();
-pessoa.retornarNomePessoa('Glaucia Lemos');
+pessoa.retornarNomePessoa('Filipe Motta');
 console.log('Meu nome é...: ', pessoa.nome);
 
 //==>Exemplo 03: Get [explicação mais densa]
 class Estudante {
-  private _nome = 'Glaucia Lemos';
+  private _nome = 'Filipe Motta';
   private _semestre: number;
   private _curso: string;
 
@@ -75,7 +66,7 @@ class Estudante_01 {
 }
 
 const estudante_01 = new Estudante_01(
-  'Glaucia Lemos',
+  'Filipe Motta',
   5,
   'Sistema da Informação',
 );
