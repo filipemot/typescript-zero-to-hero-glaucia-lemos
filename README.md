@@ -77,6 +77,7 @@ Aulas:
 - Aula 57 - TypeScript - Zero to Hero | Uso de Get & Set #56
 - Aula 58 - TypeScript - Zero to Hero | Demo - Uso de Get & Set #57
 - Aula 59 - TypeScript - Zero to Hero | Herança #58
+- Aula 60 - TypeScript - Zero to Hero | Demo - Herança #59
 
 **Instalar typescript**
 
