@@ -76,6 +76,7 @@ Aulas:
 - Aula 56 - TypeScript - Zero to Hero | Demo - Modificadores de Acesso: readonly #55
 - Aula 57 - TypeScript - Zero to Hero | Uso de Get & Set #56
 - Aula 58 - TypeScript - Zero to Hero | Demo - Uso de Get & Set #57
+- Aula 59 - TypeScript - Zero to Hero | Herança #58
 
 **Instalar typescript**
 
