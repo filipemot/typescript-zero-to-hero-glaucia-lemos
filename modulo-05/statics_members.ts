@@ -39,7 +39,7 @@ class Funcionario_01 {
 const funcionario_03 = new Funcionario_01(
   'Filipe',
   'Mota',
-  'Developer Advocate',
+  'Developer',
 );
 
 const funcionario_04 = new Funcionario_01('Jurema', 'Mota', 'Professora');
