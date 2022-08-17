@@ -79,6 +79,7 @@ Aulas:
 - Aula 59 - TypeScript - Zero to Hero | Herança #58
 - Aula 60 - TypeScript - Zero to Hero | Demo - Herança #59
 - Aula 61 - TypeScript - Zero to Hero | Membros Estáticos #60
+- Aula 62 - TypeScript - Zero to Hero | Demo - Membros Estáticos #61
 
 **Instalar typescript**
 
