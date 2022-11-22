@@ -31,7 +31,12 @@
  }
 
  class FuncionarioPJ extends Funcionario {
-   constructor(nome: string, sobrenome: string, private valorHora: number, private horasTrabalhadas: number) {
+   constructor(
+     nome: string,
+     sobrenome: string,
+     private valorHora: number,
+     private horasTrabalhadas: number,
+   ) {
      super(nome, sobrenome);
    }
 
