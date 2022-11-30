@@ -83,6 +83,10 @@ Aulas:
 - Aula 63 - TypeScript - Zero to Hero | Classes Abstratas #62
 - Aula 64 - TypeScript - Zero to Hero | Demo - Classes Abstratas #62
 
+**Módulo 06**
+
+- Aula 65 - TypeScript - Zero to Hero | Introdução à Interfaces #64
+
 
 **Instalar typescript**
 
