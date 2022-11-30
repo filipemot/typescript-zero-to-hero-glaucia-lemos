@@ -10,10 +10,10 @@ interface Pessoa {
 
 function exibirNome(pessoa: Pessoa) {
   return `
-     Nome...: ${pessoa.nome}
-     Sobrenome...: ${pessoa.sobrenome}
-     Idade...: ${pessoa.idade}
-   `;
+    Nome...: ${pessoa.nome}
+    Sobrenome...: ${pessoa.sobrenome}
+    Idade...: ${pessoa.idade}
+  `;
 }
 
 const filipe = {
