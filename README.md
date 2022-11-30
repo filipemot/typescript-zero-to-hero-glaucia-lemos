@@ -86,7 +86,7 @@ Aulas:
 **Módulo 06**
 
 - Aula 65 - TypeScript - Zero to Hero | Introdução à Interfaces #64
-
+- Aula 66 - TypeScript - Zero to Hero | Demo - Introdução à Interfaces #65
 
 **Instalar typescript**
 
