@@ -88,6 +88,7 @@ Aulas:
 - Aula 65 - TypeScript - Zero to Hero | Introdução à Interfaces #64
 - Aula 66 - TypeScript - Zero to Hero | Demo - Introdução à Interfaces #65
 - Aula 67 - TypeScript - Zero to Hero | Extensão de Interfaces #66
+- Aula 68 - TypeScript - Zero to Hero | Demo - Extensão de Interfaces #67
 
 **Instalar typescript**
 
