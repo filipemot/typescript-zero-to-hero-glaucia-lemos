@@ -31,7 +31,7 @@ const dadosCliente: DadosCliente = {
   agencia: 123,
   banco: "Banco do Brasil",
   nome: "Luis Filipe",
-  email: "glaucia@email.com",
+  email: "filipe@email.com",
   cpf: 123456789,
 }
 
@@ -57,9 +57,9 @@ const enderecoPessoa: IEnderecoPessoa = {
   nome: 'Luis Filipe',
   idade: 36,
   profissao: 'Software Engineer',
-  rua: 'Rua das Tulipas',
-  bairro: 'Bairro das Tulipas',
-  cidade: 'Rio de Janeiro',
+  rua: 'Rua Odete Moura',
+  bairro: 'Jardim Primavera',
+  cidade: 'São Paulo',
 };
 
 console.log(enderecoPessoa);
