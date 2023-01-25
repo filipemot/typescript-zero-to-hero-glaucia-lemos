@@ -1,7 +1,6 @@
 /**
  * arquivo: intersectionTypes.ts
  * descrição: arquivo responsável por ensinar uso de 'Intersection Types' em TypeScript
- * data: 12/22/2022
  * author: Luis Filipe <Twitter: @FilipeMotta17>
  */
 
