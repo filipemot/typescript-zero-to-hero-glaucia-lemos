@@ -2,7 +2,7 @@
  * arquivo: abastractClasses.ts
  * descrição: arquivo responsável por ensinar uso de classes abstratas no TypeScript
  * data: 11/18/2022
- * author: Lui´si Filipe <Twitter: @filipemot>
+ * author: Luís Filipe <Twitter: @FilipeMotta17>
  */
 
  export { };

@@ -2,7 +2,7 @@
  * arquivo: extendsInterfaces.ts
  * descrição: arquivo responsável por ensinar uso de 'extends' e 'implements' em TypeScript
  * data: 12/12/2022
- * author: Filipe Mota<Twitter: @filipemot>
+ * author: Filipe Mota<Twitter: @FilipeMotta17>
  */
 
 exports = {};

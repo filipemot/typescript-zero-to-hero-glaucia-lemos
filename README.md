@@ -90,6 +90,10 @@ Aulas:
 - Aula 67 - TypeScript - Zero to Hero | Extensão de Interfaces #66
 - Aula 68 - TypeScript - Zero to Hero | Demo - Extensão de Interfaces #67
 
+**Módulo 07**
+
+- Aula 69 - TypeScript - Zero to Hero | Intersection Types #68
+
 **Instalar typescript**
 
     npm install -g typescript
