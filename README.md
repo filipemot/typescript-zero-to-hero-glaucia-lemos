@@ -93,6 +93,7 @@ Aulas:
 **Módulo 07**
 
 - Aula 69 - TypeScript - Zero to Hero | Intersection Types #68
+- Aula 70 - TypeScript - Zero to Hero | Demo - Intersection Types #69
 
 **Instalar typescript**
 
