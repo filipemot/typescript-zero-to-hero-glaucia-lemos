@@ -97,6 +97,7 @@ Aulas:
 - Aula 71 - TypeScript - Zero to Hero | Type Guards #70
 - Aula 72 - TypeScript - Zero to Hero | Demo - Type Guards #71
 - Aula 73 - TypeScript - Zero to Hero | Type Casting #72
+- Aula 74 - TypeScript - Zero to Hero | Demo - Type Casting #72
 
 **Instalar typescript**
 
