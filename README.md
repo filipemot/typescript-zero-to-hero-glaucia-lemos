@@ -101,6 +101,7 @@ Aulas:
 - Aula 75 - TypeScript - Zero to Hero | Type Assertion #74
 - Aula 76 - TypeScript - Zero to Hero | Demo - Type Assertion #75
 - Aula 77 - TypeScript - Zero to Hero | Conditional Types #76
+- Aula 78 - TypeScript - Zero to Hero | Demo - Conditional Types #77
 
 **Instalar typescript**
 
