@@ -7,7 +7,6 @@
 
 export = {};
 
-
 // ==> Exemplo 01 - Conditional Types
 type Pessoa = {
   nome: string;
@@ -30,7 +29,9 @@ type EnderecoEmpresa = {
   localizacao: 'rua' | 'avenida' | 'praça';
 };
 
-type EnderecoFinal<T> = T extends { endereco: string } ? EnderecoPessoa : EnderecoEmpresa;
+type EnderecoFinal<T> = T extends { endereco: string }
+  ? EnderecoPessoa
+  : EnderecoEmpresa;
 
 const enderecoPessoa: EnderecoFinal<Pessoa> = {
   enderecoSecundario: 'Rua 2',
