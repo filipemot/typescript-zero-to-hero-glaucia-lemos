@@ -104,6 +104,7 @@ Aulas:
 - Aula 78 - TypeScript - Zero to Hero | Demo - Conditional Types #77
 - Aula 79 - TypeScript - Zero to Hero | MappedTypes #78
 - Aula 80 - TypeScript - Zero to Hero | Demo - MappedTypes #79
+- Aula 81 - TypeScript - Zero to Hero | Satisfies Operator #80
 
 **Instalar typescript**
 
