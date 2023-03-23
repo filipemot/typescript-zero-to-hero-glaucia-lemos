@@ -28,13 +28,13 @@ type DadosCliente = DadosBancarios & Cliente & DadosPessoaFisica;
 const dadosCliente: DadosCliente = {
   conta: 123456,
   agencia: 123,
-  banco: "Banco do Brasil",
-  nome: "Luis Filipe",
-  email: "filipe@email.com",
+  banco: 'Banco do Brasil',
+  nome: 'Luis Filipe',
+  email: 'filipe@email.com',
   cpf: 123456789,
-}
+};
 
-console.log(dadosCliente)
+console.log(dadosCliente);
 
 // ==> Exemplo 02 - Intersection Types:
 

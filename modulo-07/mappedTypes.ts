@@ -5,8 +5,7 @@
  * author: Luis Filipe <Twitter: @FilipeMotta17>
  */
 
-export { };
-
+export {};
 
 // ==> Exemplo 01: Mapped Types
 
@@ -42,7 +41,7 @@ type UsuarioMappedType = {
 const usuarioMapped: UsuarioMappedType = {
   nome: 'Filipe Mota',
   endereco: 'Rua 01, 123',
-}
+};
 
 console.log(usuarioMapped);
 
@@ -63,7 +62,7 @@ const livro: LivroModelo = {
   autor: 'Boris Cherny',
   numeroPaginas: 324,
   preco: 19.99,
-  titulo: 'Programming Typescript: Making Your JavaScript Applications Scale'
-}
+  titulo: 'Programming Typescript: Making Your JavaScript Applications Scale',
+};
 
 // livro.autor = "Filipe Mota"
