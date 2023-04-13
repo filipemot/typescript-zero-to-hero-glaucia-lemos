@@ -19,7 +19,9 @@ function exibirTipo(a: alfanumerico, b: alfanumerico) {
     return a.concat(b);
   }
 
-  throw new Error('Argumentos inválidos! Ambos os argumentos devem ser númericos ou string.');
+  throw new Error(
+    'Argumentos inválidos! Ambos os argumentos devem ser númericos ou string.',
+  );
 }
 
 console.log(exibirTipo('Filipe', '2'));
@@ -55,12 +57,10 @@ function detalhesVeiculo(veiculo: Carro | Moto) {
   }
 }
 
-const carro = new Carro('Gol', 'Volkswagen');
-console.log(detalhesVeiculo(carro));
+console.log(detalhesVeiculo(new Carro('Gol', 'Volkswagen')));
 
 const moto = new Moto('CBR', 2020);
 console.log(detalhesVeiculo(moto));
-
 
 // ==> Exemplo 03 - Type Guards: in
 interface Animal_05 {
