@@ -26,7 +26,6 @@ function exibirTipo(a: alfanumerico, b: alfanumerico) {
 
 console.log(exibirTipo('Filipe', '2'));
 console.log(exibirTipo(5, 5));
-// console.log(exibirTipo('Mota', 5));
 
 // ==> Exemplo 02 - Type Guards: instanceof
 class Carro {
