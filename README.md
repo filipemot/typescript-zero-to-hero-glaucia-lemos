@@ -108,6 +108,7 @@ Aulas:
 - Aula 82 - TypeScript - Zero to Hero | Demo - Satisfies Operator #81
 
 **Módulo 08**
+
 - Aula 83 - TypeScript - Zero to Hero | Introdução ao Generics #82
 - Aula 84 - TypeScript - Zero to Hero | Demo - Introdução ao Generics #83
 
