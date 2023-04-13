@@ -107,6 +107,9 @@ Aulas:
 - Aula 81 - TypeScript - Zero to Hero | Satisfies Operator #80
 - Aula 82 - TypeScript - Zero to Hero | Demo - Satisfies Operator #81
 
+**Módulo 08**
+- Aula 83 - TypeScript - Zero to Hero | Introdução ao Generics #82
+
 **Instalar typescript**
 
     npm install -g typescript
