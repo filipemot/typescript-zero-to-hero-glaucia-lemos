@@ -111,6 +111,7 @@ Aulas:
 
 - Aula 83 - TypeScript - Zero to Hero | Introdução ao Generics #82
 - Aula 84 - TypeScript - Zero to Hero | Demo - Introdução ao Generics #83
+- Aula 85 - TypeScript - Zero to Hero | Generics Constraints #84
 
 **Instalar typescript**
 
