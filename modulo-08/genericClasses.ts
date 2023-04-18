@@ -25,16 +25,16 @@ class Box<T> {
   }
 }
 
-const boxString = new Box<string>('Glaucia Lemos');
+const boxString = new Box<string>('Luis Filipe');
 const boxNumber = new Box<number>(36);
 
-console.log(boxString.getItem()); // Saída: Glaucia Lemos
+console.log(boxString.getItem()); // Saída: Luis Filipe
 console.log(boxNumber.getItem()); // Saída: 36
 
 // ==> Exemplo 02
 class Estudante<T, U> {
-  private id: T;
-  private nome: U;
+  private id: T | undefined;
+  private nome: U | undefined;
 
   setValor(id: T, nome: U): void {
     this.id = id;
@@ -42,16 +42,18 @@ class Estudante<T, U> {
   }
 
   retornarValor(): void {
-    console.log(`Identificação do Estudante...: ${this.id}, Nome do Estudante...: ${this.nome}`);
+    console.log(
+      `Identificação do Estudante...: ${this.id}, Nome do Estudante...: ${this.nome}`,
+    );
   }
 }
 
 const estudante = new Estudante<number, string>();
 
-estudante.setValor(101, "Glaucia Lemos");
+estudante.setValor(101, 'Luis Filipe');
 estudante.retornarValor();
 
 const estudanteSecundario = new Estudante<string, string>();
 
-estudanteSecundario.setValor("201", "Jurema Lemos");
+estudanteSecundario.setValor('201', 'Jurema Lemos');
 estudanteSecundario.retornarValor();
