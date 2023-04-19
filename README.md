@@ -116,6 +116,7 @@ Aulas:
 - Aula 87 - TypeScript - Zero to Hero | Generics Classes #86
 - Aula 88 - TypeScript - Zero to Hero | Demo - Generics Classes #87
 - Aula 89 - TypeScript - Zero to Hero | Generic Interfaces #88
+- Aula 90 - TypeScript - Zero to Hero | Demo - Generic Interfaces #89
 
 **Instalar typescript**
 
