@@ -118,6 +118,10 @@ Aulas:
 - Aula 89 - TypeScript - Zero to Hero | Generic Interfaces #88
 - Aula 90 - TypeScript - Zero to Hero | Demo - Generic Interfaces #89
 
+**Módulo 09**
+
+- Aula 91 - TypeScript - Zero to Hero | Modules #90
+
 **Instalar typescript**
 
     npm install -g typescript
