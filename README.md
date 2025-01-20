@@ -121,6 +121,7 @@ Aulas:
 **Módulo 09**
 
 - Aula 91 - TypeScript - Zero to Hero | Modules #90
+- Aula 92 - TypeScript - Zero to Hero | Demo - Modules #91
 
 **Instalar typescript**
 

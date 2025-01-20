@@ -5,11 +5,16 @@
  * author: Luis Filipe <Twitter: @FilipeMotta17>
  */
 
-export {};
+import EmailValidator from './aula-911-modules/validators/email-validator';
+import { ZipCodeValidator } from './aula-911-modules/validators/zipcode-validator';
 
-import { somar, subtrair, multiplicar, dividir } from './math';
+const email = 'glaucia.lemos@email.com';
+const validator = new EmailValidator();
+const result = validator.isValid(email);
 
-console.log(somar(10, 20));
-console.log(subtrair(10, 20));
-console.log(multiplicar(10, 20));
-console.log(dividir(10, 20));
+console.log(`O e-mail ${email} é válido? ${result}`);
+
+const validator2 = new ZipCodeValidator();
+const result2 = validator2.isValid('12345');
+
+console.log(`O CEP 12345 é válido? ${result2}`);
