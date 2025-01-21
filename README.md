@@ -123,6 +123,10 @@ Aulas:
 - Aula 91 - TypeScript - Zero to Hero | Modules #90
 - Aula 92 - TypeScript - Zero to Hero | Demo - Modules #91
 
+**Módulo 10**
+
+- Aula 93 - TypeScript - Zero to Hero | Hands on - Projeto TypeScript com Express.Js #92
+
 **Instalar typescript**
 
     npm install -g typescript
