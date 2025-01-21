@@ -2,7 +2,7 @@
  * arquivo: satisfiesOperator.ts
  * descrição: arquivo responsável por ensinar uso do 'satisfies' operator
  * data: 23/03/2023
- * author: Filipe Motta <Twitter: @glaucia_lemos86>
+ * author: Filipe Motta <Twitter: @FilipeMotta17>
  */
 
 // ==> Exemplo 01: Satisfies Operator
